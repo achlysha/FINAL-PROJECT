@@ -15,7 +15,7 @@
 ## Table of Contents
 
 ### Laboratory Activity #1: Working with Digital Signals
-* **Date:** September 19, 2025
+Date: September 19, 2025
 * **Leader:** Mayor, Mark Aaron A.
 * **Objectives:**
   1. Review Arduino as a device for IoT systems implementation.
