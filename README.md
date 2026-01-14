@@ -1,11 +1,9 @@
 # COSC 111B - CS Elective 3: Internet of Things
-1st Semester, 4th Year BSCS 4B Instructor: Sir Johnroe Paulo Cañamaque
+ BSCS 4B | 1st Semester | Mr. Johnroe Paulo Cañamaque
 
 ---
 
-## Group Information
-
-### **Members**
+## Group Members
 * De Silva, Krisha
 * Malinis, Johnbert
 * Mayor, Mark Aaron A.
@@ -14,7 +12,7 @@
 
 ---
 
-## TABLE OF CONTENTS
+## Table of Contents
 
 ### Laboratory Activity #1: Working with Digital Signals**
 * **Date:** September 19, 2025
