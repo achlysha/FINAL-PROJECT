@@ -23,7 +23,7 @@
 
 <br>
 
-### **Laboratory Activity #2: Working with Analog Signals**
+### Laboratory Activity #2: Working with Analog Signals
 * **Date:** September 26, 2025
 * **Leader:** Malinis, Johnbert
 * **Objectives:**
